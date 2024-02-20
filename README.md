@@ -1,3 +1,3 @@
 # Current Content
 
-## Squareline Stduio Tutorial
+## Squareline Studio Tutorial
